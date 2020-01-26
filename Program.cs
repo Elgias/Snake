@@ -57,11 +57,9 @@ namespace SnakeSpace
             Snake snake = new Snake();
             while (true)
             {
-                Console.Clear();
                 TimeSpan ts = stopWatch.Elapsed;
                 menu.Draw(snake, ts);
-                
-                Thread.Sleep(1000);
+                Console.Clear();
             }
         }
     }
