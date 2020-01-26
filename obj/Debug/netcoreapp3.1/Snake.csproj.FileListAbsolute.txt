@@ -1,0 +1,11 @@
+C:\Users\Elgias\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\Elgias\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\Elgias\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\Elgias\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\Elgias\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Elgias\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Elgias\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\Elgias\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Elgias\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\Elgias\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Elgias\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.pdb
